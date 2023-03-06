@@ -1,0 +1,12 @@
+export { ReactComponent as Logo } from './logo.svg';
+export { ReactComponent as BannerDecoration } from './banner-decoration.svg';
+export { ReactComponent as Phase1 } from './phase1.svg';
+export { ReactComponent as Phase2 } from './phase2.svg';
+export { ReactComponent as Phase3 } from './phase3.svg';
+export { ReactComponent as Phase4 } from './phase4.svg';
+export { ReactComponent as WooLogo } from './woo-network-logo.svg';
+export { ReactComponent as WooMobileLogo } from './woo-mobile.svg';
+export { ReactComponent as NearLogo } from './near-logo.svg';
+export { ReactComponent as NearMobileLogo } from './near-mobile.svg';
+export { ReactComponent as MenuIcon } from './menu.svg';
+export { ReactComponent as CancelIcon } from './cancel.svg';

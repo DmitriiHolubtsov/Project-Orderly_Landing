@@ -1,0 +1,29 @@
+  @font-face {
+    font-family: 'DIN2014-Bold';
+    src: url('bold/eec575332136f7176c9c50ce88576327.eot'); /* IE9*/
+    src: url('bold/eec575332136f7176c9c50ce88576327.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('bold/eec575332136f7176c9c50ce88576327.woff2') format('woff2'), /* chrome、firefox */
+    url('bold/eec575332136f7176c9c50ce88576327.woff') format('woff'), /* chrome、firefox */
+    url('bold/eec575332136f7176c9c50ce88576327.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('bold/eec575332136f7176c9c50ce88576327.svg#DIN2014-Bold') format('svg'); /* iOS 4.1- */
+  }
+
+  @font-face {
+    font-family: 'DIN2014-Demi';
+    src: url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.eot'); /* IE9*/
+    src: url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.woff2') format('woff2'), /* chrome、firefox */
+    url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.woff') format('woff'), /* chrome、firefox */
+    url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('demi/1dd1c7d8df011c2266f33ebd5927c0ab.svg') format('svg'); /* iOS 4.1- */
+  }
+
+  @font-face {
+    font-family: 'DIN2014-Regular';
+    src: url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.eot'); /* IE9*/
+    src: url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.woff2') format('woff2'), /* chrome、firefox */
+    url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.woff') format('woff'), /* chrome、firefox */
+    url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('regular/e0fa406cbe458b32a7ea4e9a379b85fc.svg') format('svg'); /* iOS 4.1- */
+  }
